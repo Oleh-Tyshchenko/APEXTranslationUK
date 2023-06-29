@@ -10,4 +10,4 @@ Example:
     @f4470_uk.sql myworkspace 101
 
 ## Supported versions:
-- APEX 23.1
+- [APEX 23.1](https://github.com/Oleh-Tyshchenko/APEXTranslationUK/blob/APEX_23.1/f4470_uk.sql)
