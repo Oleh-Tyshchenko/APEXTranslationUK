@@ -1,4 +1,4 @@
-SET DEFINE OFF
+SET VERIFY OFF
 ALTER SESSION SET NLS_LANGUAGE = AMERICAN;
 
 begin
@@ -6,6 +6,8 @@ begin
   APEX_UTIL.set_security_group_id(p_security_group_id => APEX_UTIL.find_security_group_id(p_workspace => &1.));
 end;
 /
+
+SET DEFINE OFF
 
 declare
   procedure cm( p_nm in varchar2, p_msg in varchar2, p_is_js in boolean ) is
