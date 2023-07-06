@@ -7,6 +7,9 @@ Using SQL*Plus login as your application's parsing schema and run script f4470_u
 
 Example:
     
+    sqlplus /nolog
+    connect username/password
+    
     @f4470_uk.sql myworkspace 101
 
 ## Supported versions:
