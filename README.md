@@ -15,3 +15,7 @@ Example:
 ## Supported versions:
 - [APEX 23.2](https://github.com/Oleh-Tyshchenko/APEXTranslationUK/archive/refs/tags/v23.2.zip)
 - [APEX 23.1](https://github.com/Oleh-Tyshchenko/APEXTranslationUK/archive/refs/tags/v23.1.zip)
+
+
+## Known issues:
+- [#9](/../../issues/9)
