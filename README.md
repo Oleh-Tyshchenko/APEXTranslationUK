@@ -18,4 +18,4 @@ Example:
 
 
 ## Known issues:
-- [#9](/../../issues/9)
+- Long [**APEXIR_REMOVE_FLASHBACK**](/../../issues/9) (>29 symbols in UK) leads IR to fail with error *PL/SQL: numeric or value error: character string buffer too small*. If you face this issue edit the message using **Shared Components / Text Messages** and make it shorter.
